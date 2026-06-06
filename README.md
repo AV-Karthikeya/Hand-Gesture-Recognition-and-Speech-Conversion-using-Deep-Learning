@@ -100,6 +100,10 @@ Press **Q** to exit.
 
 <img width="1918" height="1022" alt="dl" src="https://github.com/user-attachments/assets/79f95a11-916b-43e2-bc46-49913c4ab9ab" />
 
+<img width="1543" height="538" alt="image" src="https://github.com/user-attachments/assets/2dad64bf-c2b7-4b9c-a5fc-2292a720e3fd" />
+
+<img width="640" height="338" alt="image" src="https://github.com/user-attachments/assets/e3b9b44d-a111-47a5-821b-31de39116d6f" />
+
 
 ## Machine Learning / Deep Learning Used
 
