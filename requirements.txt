@@ -4,3 +4,5 @@ tensorflow
 numpy
 gtts
 
+download gesture.names file
+donwload mp_hand_gesture (Keras model)
